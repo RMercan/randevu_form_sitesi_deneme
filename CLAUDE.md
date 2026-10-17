@@ -4,9 +4,9 @@
 Bu bir tanıtım sayfası projesi.
 
 ## Ne satıyor
-Kadıköy'deki bir iskele kafeyi tanıtan bir site olacak. Menü aşağıdaki linkte var:
+Kadıköy'deki Moda İskelesi Vapur Kafe'yi tanıtan tek sayfalık bir tanıtım sitesi. Sayfada tanıtım, menü bağlantısı ve iletişim formu var. Menü PDF olarak şu linkte:
 
-https://www.google.com/search?q=kad%C4%B1k%C3%B6y+iskele+kafe&oq=kad%C4%B1k%C3%B6y&gs_lcrp=EgZjaHJvbWUqCAgAEEUYJxg7MggIABBFGCcYOzIKCAEQLhixAxiABDIMCAIQABhDGIAEGIoFMhIIAxAuGEMYrwEYxwEYgAQYigUyEggEEAAYQxiDARixAxiABBiKBTIGCAUQRRg8MgYIBhBFGD0yBggHEEUYPNIBCDM5NDNqMGo3qAIAsAIA&sourceid=chrome&source=chrome.ob&ie=UTF-8#sv=CCYSugEKEgoDdGJzEgtscmY6ITNzSUFFPQoaCgFxEhVrYWTEsWvDtnkgaXNrZWxlIGthZmUKBwoDdWRtEgAQARoOcHYtL2cvMXRmeF82eHkqIAoLL2cvMXRmeF82eHkiEQoLaXNrZWxlIGthZmUQAhgDMksKFWthZMSxa8O2eSBpc2tlbGUga2FmZUidt77e5YCAgAhaIRABEAIYABgBGAIiFWthZMSxa8O2eSBpc2tlbGUga2FmZZIBBGNhZmUYCiCG5MUn:~:text=Web%20sitesi-,Moda%20%C4%B0skelesi%20Vapur%20Kafe,-4%2C3
+https://files.sehirhatlari.istanbul/menu-tr.pdf
 
 ## Kim görecek
 Kadıköy'de yaşayan insanlar.
