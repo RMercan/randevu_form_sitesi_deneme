@@ -17,6 +17,7 @@ Kadıköy'de yaşayan insanlar.
 - İçi boş pazarlama cümlesi yok.
 - Uydurma referans yok: sahte yorum, sahte isim, sahte puan yazma. Bilmediğin bilgiyi (fiyat, saat, adres) uydurma, boş bırak veya kullanıcıya sor.
 - İçerik Türkçe.
+- Kod İngilizce: sınıf, id, değişken, fonksiyon ve kod yorumları İngilizce yazılır. Sayfada görünen metinler Türkçe kalır.
 - Mobile-first, responsive.
 
 ## Her Zaman Önce
