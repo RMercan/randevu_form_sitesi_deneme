@@ -5,6 +5,10 @@
 *.pem
 *.key
 
+# Referans görselleri ve ekran görüntüleri (gizli)
+resourcePictures/
+temporary_screenshots/
+
 # Geçici dosyalar
 _*.html
 *.log
@@ -18,3 +22,4 @@ Desktop.ini
 .DS_Store
 .vscode/
 .idea/
+
